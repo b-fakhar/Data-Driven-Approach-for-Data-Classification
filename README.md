@@ -23,9 +23,9 @@ According to the experimental results, the introduced classification algorithm
 
 ### Hyperparameter Tuning
 
-Hyperparameter tuning is required to obtain best performance for some classifiers. For the methods that require hyperparameter tuning, two sets of results are reported: (1) default settings without hyperparameter tuning "Def", and (2) with hyperparameter tuning "Tune" ("Def" applies if unspecified). A recent study titled " comparative study on various binaryclassification algorithms and their improved variant for optimal performance", provides a comprehensive overview of hyperparameter optimization of common ML models. 
+Hyperparameter tuning is required to obtain best performance for some classifiers. For the methods that require hyperparameter tuning, two sets of results are reported: (1) default settings without hyperparameter tuning "Def", and (2) with hyperparameter tuning "Tune" ("Def" applies if unspecified). A recent study (Bahel et al. paper https://pubsonline.informs.org/doi/abs/10.1287/ijoc.13.3.210.12632), provides a comprehensive overview of hyperparameter optimization of common ML models. 
 
-In experiments, the experimental results of the comparators are reported with and without hyperparameter tuning. Hyperparameters are tuned using the hyperparameter optimization methods and search ranges suggested in the above mentioned paper. There is no need to tune hyperparameters in NB and LR since the performance of these models mainly depends on how well the datasets follow the Gaussian distribution and normal distribution, respectively. Table \ref{parTUN} summarizes the hyperparameters ``HP", selected hyperparameter optimization methods ``HPO", and search range for the KNN and SVM classifiers.
+In experiments, the experimental results of the comparators are reported with and without hyperparameter tuning. Hyperparameters are tuned using the hyperparameter optimization methods and search ranges suggested by Bahel et al. There is no need to tune hyperparameters in NB and LR since the performance of these models mainly depends on how well the datasets follow the Gaussian distribution and normal distribution, respectively. Table \ref{parTUN} summarizes the hyperparameters ``HP", selected hyperparameter optimization methods ``HPO", and search range for the KNN and SVM classifiers.
 
 
 
