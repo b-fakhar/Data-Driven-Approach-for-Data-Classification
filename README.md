@@ -4,7 +4,7 @@
 Develope and investigate a new data mining algorithm to solve classifictaion problems. The new classification algorithm is developed to improve: (1) the recall score of the well-known classification algorithms such as K-Nearest Neighbours (KNN), Support Vector Machines (SVM), Naive Bayes (NB), and Logistic Regression (LR) for recall-oriented Machine Learning (ML) tasks such as disease diagnosis, and (2) improve the speed of the existing MAX FS classification methods while improving or preserving the accuracy.
 
 ### Challenges 
-
+The newly developed classification algorithm is based on solution methods for the Maximum Feasible Subsystem (MAX FS) problem. The literature MAX FS algorithms are already known to give very high accuracy for binary classification. However, the state-of-the-art MAX FS algorithms have rarely been used and investigated in the literature since they are slow. Therefore, the main requirement is to increase their speed without loss of accuracy.
 
 ### Achivements
 According to the experimental results, the introduced classification algorithm
