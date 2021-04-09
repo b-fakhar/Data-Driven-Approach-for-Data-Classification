@@ -1,6 +1,6 @@
 # Novel Data Mining Algorithm for Classification
 
-### Objective 
+### Project Objective 
 Develope and investigate a new data mining algorithm to solve classifictaion problems. The new classification algorithm is developed to improve: (1) the recall score of the well-known classification algorithms such as K-Nearest Neighbours (KNN), Support Vector Machines (SVM), Naive Bayes (NB), and Logistic Regression (LR) for recall-oriented Machine Learning (ML) tasks such as disease diagnosis, and (2) improve the speed of the existing MAX FS classification methods while improving or preserving the accuracy.
 
 ### Challenges 
