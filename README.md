@@ -7,7 +7,7 @@ Develope and investigate a new data mining algorithm to solve classifictaion pro
 The newly developed classification algorithm is based on solution methods for the Maximum Feasible Subsystem (MAX FS) problem. The literature MAX FS algorithms are already known to give very high accuracy for binary classification. However, the state-of-the-art MAX FS algorithms have rarely been used and investigated in the literature since they are slow. Therefore, the main requirement is to increase their speed without loss of accuracy.
 
 ### Achivements
-According to ``the experimental`` results, the introduced classification algorithm
+According to the experimental results, the introduced classification algorithm
 
 - Provides better total accuracy compared to KNN, SVM, NB, and LR methods with and without hyperparameter tuning. 
 - Improves the speed of the lterature MAX FS classification methods by about 94% while improving the accuracy.
