@@ -6,7 +6,7 @@ Develope and investigate a new data mining algorithm to solve classifictaion pro
 ### Achivements
 According to the experimental results, the introduced classification algorithm
 
-- Provides better total accuracy compared to KNN, SVM, NB, and LR methods with and without hyperparameter tuning. and lterature MAX FS classification methods.
+- Provides better total accuracy compared to KNN, SVM, NB, and LR methods with and without hyperparameter tuning. 
 - Improves the speed of thelterature MAX FS classification methods by about 94% while improving the accuracy.
 - Provides promising results for recall-oriented machine learning tasks such as disease diagnosis. 
 
