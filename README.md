@@ -11,6 +11,8 @@ According to the experimental results, the introduced classification algorithm
 - Provides promising results for recall-oriented machine learning tasks such as disease diagnosis. 
 
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### The following sections detail the experimental setup
 
 ### Datasets
  Binary classification problems are derived from datasets in the UCI Repository of Machine Learning Databases https://archive.ics.uci.edu/ml/datasets.php. The following tables  summarize the characteristics of the datasets used in two set of experiments (Scenario I and Scenario II). In the first scenario, the training set is identical to the entire dataset to compare with previous results of the paper titled "ast heuristics for the maximum feasible subsystem problem". In Scenario II, real-world medical and biological datasets for disease diagnosis are used. The task is to predict whether the patient has the disease (Class 1) or not (Class 0). The same folds are used throughout the implementation for all the models to ensure uniformity.
