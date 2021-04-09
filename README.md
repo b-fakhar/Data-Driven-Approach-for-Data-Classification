@@ -6,8 +6,8 @@ Develope and investigate a new data mining algorithm to solve classifictaion pro
 ### Achivements
 According to the experimental results, the introduced classification algorithm
 
-- Provides better total accuracy compared to the mentioned widely used classification techniques and lterature MAX FS classification methods.
-- Improves the speed of the existing MAX FS classification algorithm by about 94%.
+- Provides better total accuracy compared to KNN, SVM, NB, and LR with and without hyperparameter tuning. and lterature MAX FS classification methods.
+- Improves the speed of thelterature MAX FS classification methods by about 94% while improving the accuracy.
 - Provides promising results for recall-oriented machine learning tasks such as disease diagnosis. 
 
 
