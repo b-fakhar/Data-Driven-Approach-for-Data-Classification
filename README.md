@@ -14,7 +14,7 @@ According to the experimental results, the introduced classification algorithm
 - Provides promising results for recall-oriented machine learning tasks such as disease diagnosis. 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#### The following sections detail the experimental setup
+#### Some details of the experimental setup are summarised in below. For more detail refer to our paper titled "A Faster MAXimum Feasible Subsystem Algorithm for Binary Classification" 
 
 ### Datasets
  Binary classification problems are derived from datasets in the UCI Repository of Machine Learning Databases https://archive.ics.uci.edu/ml/datasets.php. The following tables  summarize the characteristics of the datasets used in two set of experiments (Scenario I and Scenario II). In the first scenario, the training set is identical to the entire dataset to compare with previous results of Chinneck's paper (https://pubsonline.informs.org/doi/abs/10.1287/ijoc.13.3.210.12632 ). In Scenario II, real-world medical and biological datasets for disease diagnosis are used. The task is to predict whether the patient has the disease (Class 1) or not (Class 0). The same folds are used throughout the implementation for all the models to ensure uniformity.
@@ -23,10 +23,7 @@ According to the experimental results, the introduced classification algorithm
 
 ### Hyperparameter Tuning
 
-Hyperparameter tuning is required to obtain best performance for some classifiers. For the methods that require hyperparameter tuning, two sets of results are reported: (1) default settings without hyperparameter tuning "Def", and (2) with hyperparameter tuning "Tune" ("Def" applies if unspecified). A recent study (Bahel et al. paper https://pubsonline.informs.org/doi/abs/10.1287/ijoc.13.3.210.12632), provides a comprehensive overview of hyperparameter optimization of common ML models. 
-
-In experiments, the experimental results of the comparators are reported with and without hyperparameter tuning. Hyperparameters are tuned using the hyperparameter optimization methods and search ranges suggested by Bahel et al. There is no need to tune hyperparameters in NB and LR since the performance of these models mainly depends on how well the datasets follow the Gaussian distribution and normal distribution, respectively. Table \ref{parTUN} summarizes the hyperparameters ``HP", selected hyperparameter optimization methods ``HPO", and search range for the KNN and SVM classifiers.
-
+Hyperparameter tuning is required to obtain best performance for some classifiers. For the methods that require hyperparameter tuning, two sets of results are reported: (1) default settings without hyperparameter tuning "Def", and (2) with hyperparameter tuning "Tune" ("Def" applies if unspecified). A recent study (Bahel et al. paper https://pubsonline.informs.org/doi/abs/10.1287/ijoc.13.3.210.12632), is considered here to select hyperparameter optimization methods and search ranges.
 
 
 
