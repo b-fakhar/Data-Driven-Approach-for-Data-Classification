@@ -1,17 +1,28 @@
 # Novel Data Mining Algorithm for Classification
 
-### Project Objective 
+## Project Objective 
 Develop and investigate a new data mining algorithm to solve classification problems.  The new classification algorithm is developed to improve: (1) the recall score of the well-known classification algorithms such as K-Nearest Neighbours (KNN), Support Vector Machines (SVM), Naive Bayes (NB), and Logistic Regression (LR) for recall-oriented Machine Learning (ML) tasks such as disease diagnosis, and (2) improve the speed of the existing MAX FS classification methods while improving or preserving the accuracy.
 
-### Challenges 
+## Challenges 
 The newly developed classification algorithm is based on solution methods for the Maximum Feasible Subsystem (MAX FS) problem. The literature MAX FS algorithms are already known to give very high accuracy for binary classification. However, the state-of-the-art MAX FS algorithms have rarely been used and investigated in the literature since they are slow. Therefore, the main requirement is to increase their speed without loss of accuracy.
 
-### Achievements
+## Achievements
 According to the experimental results, the introduced classification algorithm
 
 - Provides better total accuracy compared to KNN, SVM, NB, and LR methods with and without hyperparameter tuning. 
 - Improves the speed of the literature MAX FS classification methods by about 94% while improving the accuracy.
 - Provides promising results for recall-oriented machine learning tasks such as disease diagnosis. 
+
+## Related Pulications
+### Refereed Journal Publication
+
+##### •	F. F. Firouzeh, J. W. Chinneck, S. Rajan, "Faster Maximum Feasible Subsystem Solutions for Dense Constraint Matrices,” Submitted to Computers and Operations Research Journal.
+
+### Refereed Conference Publications
+
+##### •	F. F. Firouzeh, J. W. Chinneck, S. Rajan, "A Faster MAXimum Feasible Subsystem Algorithm for Binary Classification," Accepted in 2021 IEEE International Symposium on Medical Measurements and Applications (MeMeA).
+
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ###### Some details of the experimental setup are summarised in below. For more detail refer to our papers titled "A Faster MAXimum Feasible Subsystem Algorithm for Binary Classification" and " Faster Maximum Feasible Subsystem Solutions for Dense Constraint Matrices".
