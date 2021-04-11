@@ -25,7 +25,7 @@ According to the experimental results, the introduced classification algorithm
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-###### Some details of the experimental setup are summarised in below. For more detail refer to our papers titled "A Faster MAXimum Feasible Subsystem Algorithm for Binary Classification" and " Faster Maximum Feasible Subsystem Solutions for Dense Constraint Matrices".
+###### Some details of the experimental setup are summarised in below. For more detail refer to the papers metioned above.
 
 ### Datasets
  Binary classification problems are derived from datasets in the UCI Repository of Machine Learning Databases https://archive.ics.uci.edu/ml/datasets.php. The following tables summarize the characteristics of the datasets used in two set of experiments (Scenario I and Scenario II). In the first scenario, the training set is identical to the entire dataset to compare with previous results of Chinneck's paper (https://pubsonline.informs.org/doi/abs/10.1287/ijoc.13.3.210.12632 ). In Scenario II, real-world medical and biological datasets for disease diagnosis are used. The task is to predict whether the patient has the disease (Class 1) or not (Class 0). The same folds are used throughout the implementation for all the models to ensure uniformity.
