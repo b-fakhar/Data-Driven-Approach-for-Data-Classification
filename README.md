@@ -1,3 +1,12 @@
+## Summary
+-	Developed a data-driven approach to improve the speed of an existing supervised method, while maintaining high classification performance.
+-	Implemented an end-to-end ML pipeline for classification of UCI biological datasets.
+-	Visualized the data to obtain insights using Matplotlib and Seaborn.
+-	Conducted data preparation such as handling outliers, missing values, and imbalanced data.
+-	Implemented and evaluated ML models using cross-validation with and without hyperparameter tuning.
+-	The new data-driven approach improves the speed of the existing supervised methods on average by 80%. The proposed approach also provides better performance compared to kNN, Logistic Regression, Naïve Bayes, and SVM in biological data classification.  
+•	SKILLS & Tools: Classification, Optimization, Feature Engineering, Hyperparameter Tuning, Python, Matplotlib, Seaborn, MATLAB, and MOSEK. 
+
 
 ## Related Pulications
 ### Refereed Journal Publication
