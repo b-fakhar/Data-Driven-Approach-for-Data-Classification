@@ -1,4 +1,4 @@
-## Summary
+# Summary
 -	Developed a data-driven approach to improve the speed of an existing supervised method, while maintaining high classification performance.
 -	Implemented an end-to-end ML pipeline for classification of UCI biological datasets.
 -	Visualized the data to obtain insights using Matplotlib and Seaborn.
@@ -6,11 +6,10 @@
 -	Implemented and evaluated ML models using cross-validation with and without hyperparameter tuning.
 -	The new data-driven approach improves the speed of the existing supervised methods on average by 80%. The proposed approach also provides better performance compared to kNN, Logistic Regression, Naïve Bayes, and SVM in biological data classification.  
 
-## SKILLS/Tools
-- Machine Learning, Optimization, Feature Engineering, Hyperparameter Tuning, Python, Matplotlib, Seaborn, MATLAB, MOSEK, LaTeX. 
+# SKILLS/Tools
+- Machine Learning, Optimization, Feature Engineering, Hyperparameter Tuning, Python (Scikit-learn, Pandas, numpy, Seaborn, Matplotlib), MATLAB, MOSEK, LaTeX. 
 
-
-## Related Pulications
+# Related Pulications
 ### Refereed Journal Publication
 
 ##### •	F. F. Firouzeh, J. W. Chinneck, S. Rajan, "Faster Maximum Feasible Subsystem Solutions for Dense Constraint Matrices,” Submitted to Computers and Operations Research Journal.
@@ -33,5 +32,4 @@
 
 Hyperparameter tuning is required to obtain best performance for some classifiers. For the methods that require hyperparameter tuning, two sets of results are reported: (1) default settings without hyperparameter tuning "Def", and (2) with hyperparameter tuning "Tune" ("Def" applies if unspecified). A recent study (Bahel et al. paper https://pubsonline.informs.org/doi/abs/10.1287/ijoc.13.3.210.12632), is considered here to select hyperparameter optimization methods and search ranges.
 
-### Tools/Software
-Python (Scikit-learn, Pandas, Seaborn, Matplotlib, and Plotly), MATLAB, MOSEK, LaTeX.
+
