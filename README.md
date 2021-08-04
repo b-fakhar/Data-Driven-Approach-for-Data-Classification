@@ -5,7 +5,9 @@
 -	Conducted data preparation such as handling outliers, missing values, and imbalanced data.
 -	Implemented and evaluated ML models using cross-validation with and without hyperparameter tuning.
 -	The new data-driven approach improves the speed of the existing supervised methods on average by 80%. The proposed approach also provides better performance compared to kNN, Logistic Regression, Naïve Bayes, and SVM in biological data classification.  
-•	SKILLS & Tools: Classification, Optimization, Feature Engineering, Hyperparameter Tuning, Python, Matplotlib, Seaborn, MATLAB, and MOSEK. 
+
+## SKILLS/Tools
+- Machine Learning, Optimization, Feature Engineering, Hyperparameter Tuning, Python, Matplotlib, Seaborn, MATLAB, MOSEK, Latex (Overleaf). 
 
 
 ## Related Pulications
