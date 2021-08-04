@@ -7,7 +7,7 @@
 -	The new data-driven approach improves the speed of the existing supervised methods on average by 80%. The proposed approach also provides better performance compared to kNN, Logistic Regression, Naïve Bayes, and SVM in biological data classification.  
 
 ## SKILLS/Tools
-- Machine Learning, Optimization, Feature Engineering, Hyperparameter Tuning, Python, Matplotlib, Seaborn, MATLAB, MOSEK, Latex (Overleaf). 
+- Machine Learning, Optimization, Feature Engineering, Hyperparameter Tuning, Python, Matplotlib, Seaborn, MATLAB, MOSEK, LaTeX. 
 
 
 ## Related Pulications
