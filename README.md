@@ -1,3 +1,5 @@
+# Data Driven Approach for Data Classification
+
 # Summary
 -	Developed a data-driven approach to improve the speed of an existing supervised method, while maintaining high classification performance.
 -	Implemented an end-to-end ML pipeline for classification of UCI biological datasets.
