@@ -1,12 +1,11 @@
 # Data Driven Approach for Data Classification
 
 # Summary
--	Developed a data-driven approach to improve the speed of an existing supervised method, while maintaining high classification performance.
--	Implemented an end-to-end ML pipeline for classification of UCI biological datasets.
--	Visualized the data to obtain insights using Matplotlib and Seaborn.
--	Conducted data preparation such as handling outliers, missing values, and imbalanced data.
--	Implemented and evaluated ML models using cross-validation with and without hyperparameter tuning.
--	The new data-driven approach improves the speed of the existing supervised methods on average by 80%. The proposed approach also provides better performance compared to kNN, Logistic Regression, Naïve Bayes, and SVM in biological data classification.  
+- Developed a novel data-driven approach to enhance the speed of a supervised method while maintaining high classification accuracy, resulting in a significant improvement in computational efficiency.
+- Implemented an end-to-end machine learning pipeline for the classification of biological datasets from the UCI repository, leveraging tools such as Matplotlib and Seaborn to visualize the data and gain valuable insights.
+- Conducted comprehensive data preparation tasks, including handling outliers, missing values, and imbalanced data, to ensure the accuracy and reliability of the ML models.
+- Evaluated multiple ML models using cross-validation, both with and without hyperparameter tuning, to identify the most effective approach for the given data.
+- Demonstrated the superiority of the proposed data-driven approach, which on average improves the speed of existing supervised methods by 80%, while achieving better performance than popular classification algorithms such as k-NN, Logistic Regression, Naïve Bayes, and SVM for biological data.
 
 # Skills/Tools
 - Machine Learning, Optimization, Feature Engineering, Hyperparameter Tuning, Python (Scikit-learn, Pandas, numpy, Seaborn, Matplotlib), MATLAB, MOSEK, LaTeX. 
