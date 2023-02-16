@@ -3,7 +3,7 @@
 # Summary
 - Developed a novel data-driven approach to enhance the speed of a supervised method while maintaining high classification accuracy, resulting in a significant improvement in computational efficiency.
 - Implemented an end-to-end machine learning pipeline for the classification of biological datasets from the UCI repository, leveraging tools such as Matplotlib and Seaborn to visualize the data and gain valuable insights.
-- Conducted comprehensive data preparation tasks, including handling outliers, missing values, and imbalanced data, to ensure the accuracy and reliability of the ML models.
+- Conducted data preparation tasks, including handling outliers, missing values, and imbalanced data, to ensure the accuracy and reliability of the ML models.
 - Evaluated multiple ML models using cross-validation, both with and without hyperparameter tuning, to identify the most effective approach for the given data.
 - Demonstrated the superiority of the proposed data-driven approach, which on average improves the speed of existing supervised methods by 80%, while achieving better performance than popular classification algorithms such as k-NN, Logistic Regression, Naïve Bayes, and SVM for biological data.
 
